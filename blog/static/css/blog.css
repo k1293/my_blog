@@ -1,0 +1,29 @@
+body {
+  background-color: black;
+  color: white;
+}
+hr {
+  border-top: 1px dotted white;
+}
+hr.title{
+  border-top: 3px solid white;
+}
+h1{
+    color: white;
+}
+.date {
+    color : LightGray;
+    font-style:italic;
+}
+
+#sidebar {
+    color:black;
+    background-color:#808080;
+    top:0;
+    position:fixed;
+    right:0;
+}
+#content{
+    width:800px;
+
+}
